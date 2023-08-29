@@ -3,8 +3,8 @@
 yarn install
 ```
 ## Run the app
-- If you need update the environment, please change .env file.
-- Start the postgres db by running docker compose up -d
+- If you need to update the environment, please change .env file.
+- Start the postgres db by running `docker compose up -d`
 - Start the application
 
 ### Watch mode
